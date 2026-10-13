@@ -1,8 +1,8 @@
 { pkgs, perSystem, ... }:
 perSystem.devshell.mkShell {
-    name = "<HW_ASSIGNMENT> devshell";
+    name = "enae641-hw02 devshell";
     motd = ''
-        {141}📚 <HW_ASSIGNMENT>{reset} devshell
+        {141}📚 enae641-hw02{reset} devshell
         $(type -p menu &>/dev/null && menu)
     '';
 
@@ -56,6 +56,7 @@ perSystem.devshell.mkShell {
                 numpy
                 scipy
                 cartopy
+                control
             ]
         ))
         uv
