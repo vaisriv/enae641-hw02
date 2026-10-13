@@ -1,0 +1,4 @@
+commuting A_j (polynomials in a random 3x3 M), f = cos(t), t, e^(-t):
+max relative error vs numerical STM:
+  exp(sum_j F_j A_j)       7.6e-10
+  prod_j exp(F_j A_j)      7.6e-10

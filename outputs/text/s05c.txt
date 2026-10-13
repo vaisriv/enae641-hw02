@@ -1,0 +1,2 @@
+max |A(t1) A(t2) - A(t2) A(t1)| over 20 random pairs = 1.1e-16
+max relative error of Phi(t, tau) vs numerical STM = 2.6e-11

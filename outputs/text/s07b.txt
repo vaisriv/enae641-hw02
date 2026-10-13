@@ -1,0 +1,2 @@
+max relative |dPsi/dt - A(t) Psi(t)| on [-3, 6] = 1.8e-15
+max |det Psi(t) + e^(-t/2)| on [-3, 6] = 1.8e-15

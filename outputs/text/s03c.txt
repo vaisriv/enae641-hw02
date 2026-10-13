@@ -1,0 +1,4 @@
+y(1) = 1.000000
+max |y(t) - simulated y(t)| on [1, 10] = 1.1e-10
+max |y(t) - (C Phi(t, 1) x(1) + integral of G(t, s) ds)| = 7.1e-15
+y(t) / t -> 3/e - 3 = -1.896362

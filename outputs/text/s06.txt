@@ -1,0 +1,9 @@
+max relative error of Phi(t, tau) vs numerical STM:
+  a) 5.0e-11
+  b) 3.2e-11
+  c) 4.1e-11
+  d) 2.1e-11
+c) |A(1) A(2) - A(2) A(1)| = 0.068
+c) max |exp(int A) - Phi| = 0.021  (exp(int A) is not the STM)
+d) eigenvalues = [-4. -2.]
+d) max relative |dyadic sum - e^(At)| = 1.5e-12

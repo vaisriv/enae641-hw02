@@ -1,0 +1,6 @@
+r(lambda) = l^5 + 11 l^4 + 55 l^3 + 171 l^2 + 324 l + 270
+charpoly(A) = l^5 + 11 l^4 + 55 l^3 + 171 l^2 + 324 l + 270  (A = P J P^-1, random P)
+rank (A + 3I)^k for k = 1, 2, 3: [4, 3, 2]
+a) max |P^-1 e^(At) P - closed form| = 1.2e-15
+b) max |P^-1 e^(At) p_4 - closed form| = 4.2e-16
+c) max |P^-1 e^(At) p_2 - closed form| = 1.0e-15

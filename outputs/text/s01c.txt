@@ -1,0 +1,17 @@
+original model, C (sI - A)^-1 B before cancellation:
+  G11(s) = (10 s^2 + 40 s + 130) / (s^3 + 5 s^2 + 17 s + 13)
+  G12(s) = 0
+  G21(s) = (3 s^2 + 12 s + 39) / (s^3 + 5 s^2 + 17 s + 13)
+  G22(s) = (s^2 + 5 s + 4) / (s^3 + 5 s^2 + 17 s + 13)
+original model after pole-zero cancellation:
+  G11(s) = 10 / (s + 1)
+  G12(s) = 0
+  G21(s) = 3 / (s + 1)
+  G22(s) = (s + 4) / (s^2 + 4 s + 13)
+modal model after pole-zero cancellation:
+  G11(s) = 10 / (s + 1)
+  G12(s) = 0
+  G21(s) = 3 / (s + 1)
+  G22(s) = (s + 4) / (s^2 + 4 s + 13)
+max |G_original(jw) - G_modal(jw)| = 5.4e-15
+max |G_original(jw) - G_hand(jw)| = 5.3e-15

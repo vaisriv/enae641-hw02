@@ -1,0 +1,2 @@
+x0 = p1: max |z_3(t)| = 2.4e-16, max |x(t) - e^(-2t)(cos(3t) p1 - sin(3t) p2)| = 7.1e-15
+x0 = p3: max |z_1(t)|, |z_2(t)| = 3.2e-15, max |x(t) - e^(-t) p3| = 7.1e-15

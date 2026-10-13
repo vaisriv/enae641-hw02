@@ -1,0 +1,1 @@
+max relative error of Phi(t, tau) vs numerical STM = 9.9e-11

@@ -1,0 +1,6 @@
+max relative error of Phi(t, tau) vs numerical STM = 4.6e-11
+monodromy matrix Phi(pi, 0) =
+[[-4.8105  0.    ]
+ [ 0.     -0.0432]]
+Floquet multipliers = [-4.8105 -0.0432]
+-e^(pi/2) = -4.8105, -e^(-pi) = -0.0432
